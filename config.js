@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = [] 
-global.prems = [''] 
+global.owner = ['6288708231116'] 
+global.mods = ['6288708231116'] 
+global.prems = ['6288708231116'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc'
-global.numberowner = '6285822347348'
-global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/sahrull11'
-global.dana = '085822347348'
+global.nameowner = 'DILL SAD BOY'
+global.numberowner = '6288708231116'
+global.instagram = 'https://instagram.com/dillstore'
+global.github = 'https://github.com/FadhilBotz'
+global.dana = '088271707571'
 global.pulsa = '085822347348,083843192208'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
-global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
-global.web = 'https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.namebot = 'DILLBOTz - MD'
+global.gc = 'https://chat.whatsapp.com/Kfog6CpfjabGGeMqETEPLE'
+global.web = 'https://github.com/FadhilBotz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = 'Permanen 10.000\n1 bulan 7.000\n2 Minggu 5.000\n1 Minggu 3.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© AɾυʅʅBσƚȥMD'
+global.wm = '© DILLBOTz - MD'
 global.watermark = wm
-global.wm2 = '「 ArullBotzMD 」'
-global.wm3 = '© AɾυʅʅBσƚȥMD'
+global.wm2 = '「 DILLBOTz - MD 」'
+global.wm3 = '© DILLBOTz - MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat*'
 global.packname = 'Sticker By'
-global.author = '© ArullOfc'
+global.author = '© DILL SAD BOY'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
